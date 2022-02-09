@@ -44,7 +44,7 @@ Rose Can filter content of a given channel automatically
     - Music
 **Setting up**
 
-1) Add @szrosebot to your channel
+1) Add @alkuppiyaprotectorbot to your channel
 2) Make bot admin with full permissions
 2) Go back to your group
 
@@ -54,7 +54,7 @@ Rose Can filter content of a given channel automatically
 × /autofilterdelall : Remove all channels from automatic filtering
 × /autofiltersettings : Show settings panel about auto filtering channels
 
-Original work is done by @CrazyBotsz
+
 """
 @app.on_callback_query(filters.regex("_afilters"))
 async def commands_callbacc(_, CallbackQuery):
