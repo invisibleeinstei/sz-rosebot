@@ -3,25 +3,25 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
 supunma = """
-👨‍🔧 **Advanced Menu**
+👨‍🔧 **ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ**
 
-✘ Advanced commands will help you to secure your groups 
-from attackers and do many stuff in group from a single bot
-You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+<b>ᴀᴅᴠᴀɴᴄᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ꜰʀᴏᴍ ᴀᴛᴛᴀᴄᴋᴇʀꜱ ᴀɴᴅ ᴅᴏ ᴍᴀɴʏ ꜱᴛᴜꜰꜰ ɪɴ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ᴀ ꜱɪɴɢʟᴇ ʙᴏᴛ.ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.</b>💡
 
-Click buttons to get help [?](https://t.me/szteambots/872)
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ](https://t.me/apealkuppiya).💡
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ](https://t.me/alevelkuppiya1)🐣
+
+[ᴄʟɪᴄᴋ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ](https://t.me/szteambots/872)
 """
 
 mbuttons = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton
                 (
-                    "CAPTCHA", callback_data="_cap"
+                    "CAPTCHA🥷🏻", callback_data="_cap"
                 ),            
             InlineKeyboardButton
                 (
-                    "Logo-Tools", callback_data="_logo"
+                    "Logo-Tools🖼", callback_data="_logo"
                 )
         ],
         [
