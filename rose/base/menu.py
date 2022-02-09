@@ -3,13 +3,14 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
 supunma = """
-**👮‍♀️Basic Menu**
+**👮‍♀️ʙᴀꜱɪᴄ ᴍᴇɴᴜ**
 
-✘ Base commands are the basic tools of Rose Bot which help you to manage 
-your group easily and effectivelyYou can choose an option below, 
-by clicking a button.Also you can ask anything in [Support Group](https://t.me/slbotzone).
+ʙᴀꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴀʀᴇ ᴛʜᴇ ʙᴀꜱɪᴄ ᴛᴏᴏʟꜱ ᴏꜰ ʀᴏꜱᴇ ʙᴏᴛ ᴡʜɪᴄʜ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.👇🏼 
 
-Click buttons to get help [?](https://t.me/szteambots/872)
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡](https://t.me/apealkuppiya)
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ 🐣](https://t.me/alevelkuppiya1)
+
+[ᴄʟɪᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ](https://t.me/szteambots/872)
 """
 
 mbuttons = InlineKeyboardMarkup(
