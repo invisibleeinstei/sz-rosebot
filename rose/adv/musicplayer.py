@@ -18,7 +18,7 @@ abuttons = InlineKeyboardMarkup(
 
 
 supun = """
-✘ **Manage VC Right** [Admin only commands ]
+ **ᴍᴀɴᴀɢᴇ ᴠᴄ ʀɪɢʜᴛ** [Admin only commands ]
 
 - /pause  : Pause the playing music on voice chat.
 - /resume : Resume the paused music on voice chat.
@@ -194,7 +194,7 @@ upun = """
 
 **Original work is done by** : @OfficialYukki
 
-Click on the buttons for more information.| [credits](https://github.com/NotReallyShikhar/RoseMusicBot)
+Click on the buttons for more information.| [credits](https://t.me/apealkuppiya)
 """
 @app.on_callback_query(filters.regex("_vc"))
 async def commands_callbacc(_, CallbackQuery):
