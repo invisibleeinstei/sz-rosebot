@@ -41,14 +41,14 @@ async def ForceSub(bot: Client, event: Message):
         fix_ = await ForceSub(bot, event)
         return fix_
     except Exception as err:
-        print(f"Unable to do Force Subscribe to {uchannel}\n\nError: {err}\n\nContact Support Group: https://t.me/slbotzone")
+        print(f"Unable to do Force Subscribe to {uchannel}\n\nError: {err}\n\nContact Support Group: https://t.me/apealkuppiya")
         return 200
     try:
         user = await bot.get_chat_member(chat_id=(int(uchannel) if uchannel.startswith("-100") else uchannel), user_id=event.from_user.id)
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=event.from_user.id,
-                text="Sorry Dear, You are Banned to use me ☹️\nFeel free to say in our [Support Group](https://t.me/slbotzone).",
+                text="Sorry Dear, You are Banned to use me ☹️\nFeel free to say in our [Support Group](https://t.me/apealkuppiya).",
                 parse_mode="markdown",
                 disable_web_page_preview=True,
                 reply_to_message_id=event.message_id
@@ -59,13 +59,13 @@ async def ForceSub(bot: Client, event: Message):
     except UserNotParticipant:
         await bot.send_message(
             chat_id=event.chat.id,
-            text="""⛔️ *Access Denied *⛔️
-            🙋‍♂️ Hey There {}, You Must Join my Telegram Channel To Use This BOT. So, Please Join it & Try Again🤗. Thank You 🤝
+            text="""⛔️ *ᴀᴄᴄᴇꜱꜱ ᴅᴇɴɪᴇᴅ*⛔️
+            <b>ʜᴇʏ ᴛʜᴇʀᴇ {}, ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ. ꜱᴏ, ᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ɪᴛ & ᴛʀʏ ᴀɢᴀɪɴ🤗.</b>
             """.format(event.from_user.mention),
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Join  Channel 🔔", url=invite_link.invite_link)
+                        InlineKeyboardButton("ᴊᴏɪɴ  ᴄʜᴀɴɴᴇʟ 🔔", url=invite_link.invite_link)
                     ]
                 ]
             ),
@@ -78,7 +78,7 @@ async def ForceSub(bot: Client, event: Message):
         fix_ = await ForceSub(bot, event)
         return fix_
     except Exception as err:
-        print(f"Something Went Wrong! Unable to do Force Subscribe.\nError: {err}\n\nContact Support Group: https://t.me/slbotzone")
+        print(f"Something Went Wrong! Unable to do Force Subscribe.\nError: {err}\n\nContact Support Group: https://t.me/apealkuppiya")
         return 200
 
 LOG_DATETIME = datetime.now().strftime("%d_%m_%Y-%H_%M_%S")
