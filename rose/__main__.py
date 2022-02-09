@@ -136,20 +136,20 @@ start_button = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="❓ Commands Menu", callback_data="bot_commands"
+                text="ᴄᴏᴍᴍᴀɴᴅꜱ ᴍᴇɴᴜ🤭", callback_data="bot_commands"
             ),
         ],
         [
            InlineKeyboardButton(
-                text="🛠 Github", url="https://github.com/szsupunma"
+                text="ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡", url="https://t.me/apealkuppiya"
             ),
             InlineKeyboardButton(
-                text="👨‍💻Developer", url="http://t.me/supunmabot"
+                text="ᴅᴇᴠᴇʟᴏᴘᴇʀ👻", url="http://t.me/invisible_einstein"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="➕ Add Me To Your Group ➕",
+                text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🤭👻",
                 url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
             )
         ],
@@ -157,9 +157,7 @@ start_button = InlineKeyboardMarkup(
 )
 
 start_text = f"""
-Hello There ! I'm **Rosebot** ✨ 
-An  advanced telegram Group management Bot For help 
-You Protect Your Groups & Suit For All Your Needs.
+<b>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ! ɪ'ᴍ AL KUPPꞮYA PƦOTECTOƦ 🪶 .ᴀɴ  ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ & ꜱᴜɪᴛ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.🤭♥️👻</b>
 """
 
 keyboard = InlineKeyboardMarkup(
@@ -175,34 +173,30 @@ keyboard = InlineKeyboardMarkup(
 
 
 basichelp_string = """
-**👥Basic Group Commands**
-✘ Base commands are the basic tools of Rose Bot which help you to manage 
-your group easily and effectivelyYou can choose 
-an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+*ʙᴀꜱɪᴄ ɢʀᴏᴜᴘ ᴄᴏᴍᴍᴀɴᴅ** 🤭
+ʙᴀꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴀʀᴇ ᴛʜᴇ ʙᴀꜱɪᴄ ᴛᴏᴏʟꜱ ᴏꜰ ʀᴏꜱᴇ ʙᴏᴛ ᴡʜɪᴄʜ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ 
+ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ 
+ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ [Support Group](https://t.me/apealkuppiya).
 
->> [Shorter the Way, Faster you Go! 🏃‍♂️](https://t.me/szteambots/872)
 """
 
 funtools_string = """
-👨🏻‍💼**Expert**
+**Expert** 👻
 
-✘ Extra tools which are available in bot and tools made for fun are here
-You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+ᴇxᴛʀᴀ ᴛᴏᴏʟꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʙᴏᴛ ᴀɴᴅ ᴛᴏᴏʟꜱ ᴍᴀᴅᴇ ꜰᴏʀ ꜰᴜɴ ᴀʀᴇ ʜᴇʀᴇ
+ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ 🤭 [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👻](https://t.me/apealkuppiya).
 
-Click buttons to get help [?](https://t.me/szteambots/872)
 """
 
 advtools_string = """
+**ᴀᴅᴠᴀɴᴄᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ** 🤭
 
+ᴀᴅᴠᴀɴᴄᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ 
+ꜰʀᴏᴍ ᴀᴛᴛᴀᴄᴋᴇʀꜱ ᴀɴᴅ ᴅᴏ ᴍᴀɴʏ ꜱᴛᴜꜰꜰ ɪɴ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ᴀ ꜱɪɴɢʟᴇ ʙᴏᴛ
+ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.🤭 [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👻](https://t.me/apealkuppiya).
 
-✘ Advanced commands will help you to secure your groups 
-from attackers and do many stuff in group from a single bot
-You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
-
->> [Shorter the Way, Faster you Go! 🏃‍♂️](https://t.me/szteambots/872)
 """
 
 @app.on_message(filters.command(["start", f"@{BOT_USERNAME}"]))
@@ -234,7 +228,7 @@ started time - `2022 {dater}:{timer} `
                 """
             )
         return await message.reply(
-            "**Heya, @szrosebot here :) PM me if you have any questions how to use me!**", reply_markup=keyboard
+            "**ʜᴇʏᴀ, @alkuppiyaprotectorbot ʜᴇʀᴇ :) ᴘᴍ ᴍᴇ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ Qᴜᴇꜱᴛɪᴏɴꜱ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ!**", reply_markup=keyboard
         )
     if len(message.text.split()) > 1:
         name = (message.text.split(None, 1)[1]).lower()
@@ -323,34 +317,34 @@ keyboar = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="👮‍♀️Basic Menu", callback_data="basic_menu"
+                            text="ʙᴀꜱɪᴄ ᴍᴇɴᴜ👻🤭", callback_data="basic_menu"
                         ),
                         InlineKeyboardButton(
-                            text="👨‍🔧 Advanced Menu", callback_data="adv_menu"
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="👨🏻‍💼 Expert ", callback_data="ftools_back"
-                        ),
-                        InlineKeyboardButton(
-                            text="🕵🏻‍♀️ Inline ", callback_data="_inline"
+                            text="ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ👻🤭", callback_data="adv_menu"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="👱‍♂️How to Use Me", callback_data="_how"
+                            text="ᴇxᴘᴇʀᴛ👻🤭", callback_data="ftools_back"
                         ),
                         InlineKeyboardButton(
-                            text="👩‍💻About Me", callback_data="_about"
+                            text="ɪɴʟɪɴᴇ👻🤭", callback_data="_inline"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="News Channel 🗣", url="https://t.me/szteambots"
+                            text="ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ👻🤭", callback_data="_how"
                         ),
                         InlineKeyboardButton(
-                            text="Support Group👥", url="https://t.me/slbotzone"
+                            text="ᴀʙᴏᴜᴛ ᴍᴇ👻🤭", callback_data="_about"
+                        ),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            text="ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡", url="https://t.me/apealkuppiya"
+                        ),
+                        InlineKeyboardButton(
+                            text="ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ 🐣", url="https://t.me/alevelkuppiya1"
                         ),
                     ],
                     [
@@ -362,10 +356,10 @@ keyboar = InlineKeyboardMarkup(
             )
 
 texts = """
-**Welcome to help menu**
-I'm a group management bot with some useful features.
-You can choose an option below, by clicking a button.
-Also you can ask anything in Support Group.
+**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴇɴᴜ🌟**
+ɪ'ᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.
+ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
 """
 
 @app.on_callback_query(filters.regex("expand_"))
@@ -384,37 +378,37 @@ async def help_parser(name, keyboard=None):
                 [
                     [
                         InlineKeyboardButton(
-                            text="👮‍♀️Basic Menu", callback_data="basic_menu"
+                            text="ʙᴀꜱɪᴄ ᴍᴇɴᴜ👻🤭", callback_data="basic_menu"
                         ),
                         InlineKeyboardButton(
-                            text="👨‍🔧 Advanced Menu", callback_data="adv_menu"
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="👨🏻‍💼 Expert ", callback_data="ftools_back"
-                        ),
-                        InlineKeyboardButton(
-                            text="🕵🏻‍♀️ Inline ", callback_data="_inline"
+                            text="ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ👻🤭", callback_data="adv_menu"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🔽 Expand Menu ", callback_data="expand_"
+                            text="ᴇxᴘᴇʀᴛ👻🤭", callback_data="ftools_back"
+                        ),
+                        InlineKeyboardButton(
+                            text="ɪɴʟɪɴᴇ👻🤭", callback_data="_inline"
+                        ),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            text="🔽 ᴇxᴘᴀɴᴅ ᴍᴇɴᴜ ", callback_data="expand_"
                         )
                     ],
-                        [InlineKeyboardButton(text="🔙 Back", callback_data="startcq")],
+                        [InlineKeyboardButton(text="🔙 ʙᴀᴄᴋ", callback_data="startcq")],
                 ]
             )
 
 
     return (
         """
-**Welcome to help menu**
+**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴇɴᴜ🌟**
 
-I'm a group management bot with some useful features.
-You can choose an option below, by clicking a button.
-Also you can ask anything in Support Group.
+ɪ'ᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.
+ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
 """.format(
             first_name=name,
             bot_name=BOT_NAME,
@@ -449,11 +443,11 @@ async def help_button(client, query):
     back_match = re.match(r"help_back", query.data)
     create_match = re.match(r"help_create", query.data)
     top_text = f"""
-**Welcome to help menu**
+**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴇɴᴜ🌟**
 
-I'm a group management bot with some useful features.
-You can choose an option below, by clicking a button.
-Also you can ask anything in Support Group.
+ɪ'ᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.
+ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
  """
     if mod_match:
         module = (mod_match.group(1)).replace(" ", "_")
@@ -664,7 +658,7 @@ UTTON_10 = InlineKeyboardMarkup(
 
 TEXT_PART_1 = """
 Here is the help for the **Formatting** 
-Rose supports a large number of formatting options 
+ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 supports a large number of formatting options 
 to make your messages more expressive. Take a look 
 by clicking the buttons below!
 """
@@ -818,7 +812,7 @@ async def commands_callbacc(_, CallbackQuery):
     modules_count = len(ALL_MODULES)
 
     TEXT_PART = f"""
-@szrosebot ** is one of the fastest and most feature filled group manager**.   
+@alkuppiyaprotectorbot ** is one of the fastest and most feature filled group manager**.   
  
  - **Latest Update Time** : `2022 {dater}:{timer}`
  - **Modules Loaded **:  `{modules_count}`
@@ -828,7 +822,7 @@ async def commands_callbacc(_, CallbackQuery):
  - ** chats.** : `{served_chats}`
 
  
- **Why Rose**:
+ **Why ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶**:
  
 - **Simple**: `Easy usage and compaitble with many bot commands.`
 - **Featured**: `Many features which other group management bots don't have.`
@@ -843,8 +837,8 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 TEXT_PART_1 = """
-**Welcome to the Rose Configuration**
-The first thing to do is to add Rose Bot ✨ to your group! 
+**Welcome to the ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 Configuration**
+The first thing to do is to add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
@@ -866,14 +860,14 @@ TEXT_PART_3 = """
 **Excellent!** Now the Bot is ready to use!
 All commands can be used with / 
 If you're facing any difficulties in setting up me in your group, 
-so don't hesitate to come in @slbotzone.
+so don't hesitate to come in ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶.
 We would love to help you.
 """
 
 
 BUTTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Rose to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
+        InlineKeyboardButton('Add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to Chat ! 🎉', url='http://t.me/alkuppiyaprotectorbot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_1")
         ]]
@@ -914,13 +908,13 @@ async def popat(_, CallbackQuery):
 
 
 text = """
-@szrosebot is one of the fastest and most feature filled group manager.
+@alkuppiyaprotectorbot is one of the fastest and most feature filled group manager.
 
-Rose ✨ is developed and actively maintained by @szteambots!
+@alkuppiyaprotectorbot is developed and actively maintained by @apealkuppiya!
 
-Rose has been online since 2021/8/10 and have many [groups and users.](https://t.me/szteambots/890)
 
-**Why Rose:**
+
+**Why ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶:**
 - **Simple**: Easy usage and compaitble with many bot commands.
 - **Featured**: Many features which other group management bots don't have.
 - **Fast**: Pyrogram base bot and use mongo as database.
@@ -961,7 +955,7 @@ async def commands_callbacc(_, CallbackQuery):
 
 TEXT_PAT_1 = """
 **Welcome to the Rose Configuration**
-The first thing to do is to add Rose Bot ✨ to your group! 
+The first thing to do is to add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
@@ -983,14 +977,14 @@ TEXT_PART_3 = """
 **Excellent!** Now the Bot is ready to use!
 All commands can be used with / 
 If you're facing any difficulties in setting up me in your group, 
-so don't hesitate to come in @slbotzone.
+so don't hesitate to come in @apealkuppiya.
 We would love to help you.
 """
 
 
 BUTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Rose to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
+        InlineKeyboardButton('Add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to Chat ! 🎉', url='http://t.me/alkuppiyaprotectorbot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_100")
         ]]
@@ -1076,7 +1070,7 @@ LOGGER.info("""
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
 └───────────────────────────────────────────────┘ """)
 LOGGER.info(f"Version: stable")
-LOGGER.info(f"Owner: @supunma")
+LOGGER.info(f"Owner: @invisible_einstein")
 
 if __name__ == "__main__":
     uvloop.install()
