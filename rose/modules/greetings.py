@@ -328,14 +328,14 @@ async def cleannnnn(_, m: Message):
 
 TEXT_PART_1 = """
 **Welcome to the Rose Configuration**
-The first thing to do is to add Rose Bot ✨ to your group! 
+The first thing to do is to add [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
 
 BUTTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Rose to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
+        InlineKeyboardButton('Add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to Chat ! 🎉', url='http://t.me/alkuppiyaprotectorbot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_1")
         ]]
