@@ -158,7 +158,8 @@ start_button = InlineKeyboardMarkup(
 
 start_text = f"""
 <b>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ! ɪ'ᴍ AL KUPPꞮYA PƦOTECTOƦ 🪶 .ᴀɴ  ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ & ꜱᴜɪᴛ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.🤭♥️👻</b>
-<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya).<b>ʙᴏᴛ ᴘʀᴏɢʀᴀᴍ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ,</b>**👇🏼
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya) <b>ʙᴏᴛ ᴘʀᴏɢʀᴀᴍ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ,</b>👇🏼
 
 ▫️[ᴡɪʟʟɪᴀᴍʙᴜᴛᴄʜᴇʀʙᴏᴛ](https://github.com/thehamkercat/WilliamButcherBot)
 ▫️[ᴀʟɪᴛᴀ ʀᴏʙᴏᴛ](https://github.com/Divkix/Alita_Robot/)
@@ -245,7 +246,7 @@ started time - `2022 {dater}:{timer} `
                 """
             )
         return await message.reply(
-            "**ʜᴇʏ, @alkuppiyaprotectorbot ʜᴇʀᴇ :) ᴘᴍ ᴍᴇ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ Qᴜᴇꜱᴛɪᴏɴꜱ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ!**ᴘʀᴏᴊᴇᴄᴛ ʙʏ [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)", reply_markup=keyboard
+            "**ʜᴇʏ, alkuppiyaprotectorbot ʜᴇʀᴇ :) ᴘᴍ ᴍᴇ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ Qᴜᴇꜱᴛɪᴏɴꜱ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ!**ᴘʀᴏᴊᴇᴄᴛ ʙʏ [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)", reply_markup=keyboard
         )
     if len(message.text.split()) > 1:
         name = (message.text.split(None, 1)[1]).lower()
@@ -843,17 +844,17 @@ async def commands_callbacc(_, CallbackQuery):
     modules_count = len(ALL_MODULES)
 
     TEXT_PART = f"""
-@alkuppiyaprotectorbot ** is one of the fastest and most feature filled group manager**.   
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) is one of the fastest and most feature filled group manager**.   
  
  - **Latest Update Time** : `2022 {dater}:{timer}`
  - **Modules Loaded **:  `{modules_count}`
  - **Globally banned users.** :  `{gbans}`
-@szrosebot **Mongo database stats**
+@alkuppiyaprotectorbot **Mongo database stats**
  - ** Users ** : `{served_users}`
  - ** chats.** : `{served_chats}`
 
  
- **Why ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶**:
+ **Why** [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot):
  
 - **Simple**: `Easy usage and compaitble with many bot commands.`
 - **Featured**: `Many features which other group management bots don't have.`
@@ -869,7 +870,7 @@ async def commands_callbacc(_, CallbackQuery):
 
 TEXT_PART_1 = """
 **Welcome to the ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 Configuration**
-The first thing to do is to add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to your group! 
+The first thing to do is to add [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 
@@ -884,7 +885,7 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @alkuppiyaprotectorbot as Admin
+▫️ Add [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
 
@@ -945,9 +946,9 @@ async def popat(_, CallbackQuery):
 
 
 text = """
-@alkuppiyaprotectorbot is one of the fastest and most feature filled group manager.
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) is one of the fastest and most feature filled group manager.
 
-@alkuppiyaprotectorbot is developed and actively maintained by @apealkuppiya!
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) is developed and actively maintained by @apealkuppiya!
 
 
 
@@ -956,7 +957,7 @@ text = """
 - **Featured**: Many features which other group management bots don't have.
 - **Fast**: Pyrogram base bot and use mongo as database.
 
-**Current Version:** `1.0.6` | [Special Credits](https://telegra.ph/Special-Credits-02-02)
+**Current Version:** `1.0.6` | [Special Credits](https://telegra.ph/%E1%97%A9%E3%81%97-%E1%8F%A6%E1%91%8C%E1%91%AD%E1%91%AD%E1%8F%86%E1%8E%A9%E1%97%A9%E1%B5%80%E1%B4%B9-02-10)
 
 <b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
@@ -1009,7 +1010,7 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @alkuppiyaprotectorbot as Admin
+▫️ Add [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
 
@@ -1020,7 +1021,7 @@ TEXT_PART_3 = """
 **Excellent!** Now the Bot is ready to use!
 All commands can be used with / 
 If you're facing any difficulties in setting up me in your group, 
-so don't hesitate to come in @apealkuppiya.
+so don't hesitate to come in [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot).
 We would love to help you.
 
 <b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
