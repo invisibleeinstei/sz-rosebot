@@ -10,7 +10,6 @@ supunma = """
 [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡](https://t.me/apealkuppiya)
 [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ 🐣](https://t.me/alevelkuppiya1)
 
-[ᴄʟɪᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ](https://t.me/szteambots/872)
 """
 
 mbuttons = InlineKeyboardMarkup(
