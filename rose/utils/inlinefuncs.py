@@ -71,7 +71,7 @@ async def inline_help_func(__HELP__):
             input_message_content=InputTextMessageContent(
                 f"Click A Button To Get Started"
             ),
-            thumb_url="https://telegra.ph/file/6f058d61733af1c2cb995.jpg",
+            thumb_url="https://telegra.ph/file/c1b6243f41419dffba9b5.jpg",
             reply_markup=buttons,
         ),
     ]
@@ -91,7 +91,7 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[Rose✨](https://github.com/szsupunma/sz-rose-bot):**
+**[ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya):**
 **System Stats:**
 **MainBot:** `{bot_state}`
 **Python:** `{pyver.split()[0]}`
@@ -103,13 +103,13 @@ async def alive_function(answers):
  DB 1 [Main]: `Running`
  DB 2 [Main]: `Running`
  
-[->> Shorter the Way, Faster you Go! 🏃‍♂️](https://t.me/szteambots/872) 
+[->> Shorter the Way, Faster you Go! 🏃‍♂️](https://t.me/apealkuppiya) 
 """
     answers.append(
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/6f058d61733af1c2cb995.jpg",
+            thumb_url="https://telegra.ph/file/c1b6243f41419dffba9b5.jpg",
             input_message_content=InputTextMessageContent(
                 msg, disable_web_page_preview=True
             ),
@@ -238,7 +238,7 @@ async def logo_func(answers, text):
     randc = (LOGO_API)
     img = Image.open(io.BytesIO(requests.get(randc).content))
     murl = requests.get(f"https://api.single-developers.software/logo?name={text}").history[1].url
-    fname = "szrosebot.png"
+    fname = "alkuppiyaprotectorbot.png"
     img.save(fname, "png")
     answers.append(
             InlineQueryResultPhoto(
