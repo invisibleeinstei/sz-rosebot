@@ -82,7 +82,7 @@ async def get_note_func(c: app, m: Message, note_name, priv_notes_status):
                     [
                         (
                             "Click Me!",
-                            f"https://t.me/szrosebot?start=note_{m.chat.id}_{note_hash}",
+                            f"https://t.me/alkuppiyaprotectorbot?start=note_{m.chat.id}_{note_hash}",
                             "url",
                         ),
                     ],
@@ -337,7 +337,7 @@ async def local_notes(_, m: Message):
                 [
                     (
                         "All Notes",
-                        f"https://t.me/szrosebot?start=notes_{m.chat.id}",
+                        f"https://t.me/alkuppiyaprotectorbot?start=notes_{m.chat.id}",
                         "url",
                     ),
                 ],
