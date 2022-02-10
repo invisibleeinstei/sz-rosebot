@@ -121,8 +121,8 @@ async def start_bot():
     except Exception:
         pass
     try:
-            await app2.join_chat("szteambots")
-            await app2.join_chat("slbotzone")
+            await app2.join_chat("apealkuppiya")
+            await app2.join_chat("apealkuppiya")
     except UserAlreadyParticipant:
         pass
     await idle()
@@ -158,6 +158,20 @@ start_button = InlineKeyboardMarkup(
 
 start_text = f"""
 <b>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ! ɪ'ᴍ AL KUPPꞮYA PƦOTECTOƦ 🪶 .ᴀɴ  ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ & ꜱᴜɪᴛ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.🤭♥️👻</b>
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya).<b>ʙᴏᴛ ᴘʀᴏɢʀᴀᴍ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ,</b>**👇🏼
+
+▫️[ᴡɪʟʟɪᴀᴍʙᴜᴛᴄʜᴇʀʙᴏᴛ](https://github.com/thehamkercat/WilliamButcherBot)
+▫️[ᴀʟɪᴛᴀ ʀᴏʙᴏᴛ](https://github.com/Divkix/Alita_Robot/)
+▫️[ʏᴜᴋᴋɪᴍᴜꜱɪᴄʙᴏᴛ](https://github.com/NotReallyShikhar/YukkiMusicBot)
+▫️[ꜱɪɴɢʟᴇ-ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ](https://github.com/Single-Developers/API)
+▫️[ɴᴇxᴀ ᴜꜱᴇʀʙᴏᴛ](https://github.com/Itz-fork/Nexa-Userbot)
+▫️[ɢʜᴏꜱᴛɪꜱᴛ ʟᴏɢᴏ ᴍᴀᴋᴇʀ ᴀᴘɪ](https://telegra.ph/Ghostist-Logo-Maker-API-01-30)
+▫️[ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+▫️[ᴀʀQᴜᴘᴅᴀᴛᴇꜱ](https://t.me/ARQupdates)
+▫️[ʀᴏꜱᴇ ʙᴏᴛ](https://t.me/szrosebot)
+
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡](https://t.me/apealkuppiya)
+[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ 🐣](https://t.me/alevelkuppiya1)
 """
 
 keyboard = InlineKeyboardMarkup(
@@ -179,6 +193,7 @@ basichelp_string = """
 ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
 ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ [Support Group](https://t.me/apealkuppiya).
 
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 funtools_string = """
@@ -188,6 +203,7 @@ funtools_string = """
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
 ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ 🤭 [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👻](https://t.me/apealkuppiya).
 
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 advtools_string = """
@@ -197,6 +213,7 @@ advtools_string = """
 ꜰʀᴏᴍ ᴀᴛᴛᴀᴄᴋᴇʀꜱ ᴀɴᴅ ᴅᴏ ᴍᴀɴʏ ꜱᴛᴜꜰꜰ ɪɴ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ᴀ ꜱɪɴɢʟᴇ ʙᴏᴛ
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.🤭 [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👻](https://t.me/apealkuppiya).
 
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 @app.on_message(filters.command(["start", f"@{BOT_USERNAME}"]))
@@ -228,7 +245,7 @@ started time - `2022 {dater}:{timer} `
                 """
             )
         return await message.reply(
-            "**ʜᴇʏᴀ, @alkuppiyaprotectorbot ʜᴇʀᴇ :) ᴘᴍ ᴍᴇ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ Qᴜᴇꜱᴛɪᴏɴꜱ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ!**", reply_markup=keyboard
+            "**ʜᴇʏ, @alkuppiyaprotectorbot ʜᴇʀᴇ :) ᴘᴍ ᴍᴇ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ Qᴜᴇꜱᴛɪᴏɴꜱ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ!**ᴘʀᴏᴊᴇᴄᴛ ʙʏ [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)", reply_markup=keyboard
         )
     if len(message.text.split()) > 1:
         name = (message.text.split(None, 1)[1]).lower()
@@ -360,6 +377,8 @@ texts = """
 ɪ'ᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
 ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 @app.on_callback_query(filters.regex("expand_"))
@@ -409,6 +428,8 @@ async def help_parser(name, keyboard=None):
 ɪ'ᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
 ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """.format(
             first_name=name,
             bot_name=BOT_NAME,
@@ -448,6 +469,8 @@ async def help_button(client, query):
 ɪ'ᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
 ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
  """
     if mod_match:
         module = (mod_match.group(1)).replace(" ", "_")
@@ -661,6 +684,8 @@ Here is the help for the **Formatting**
 ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 supports a large number of formatting options 
 to make your messages more expressive. Take a look 
 by clicking the buttons below!
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 BTTON_1 = InlineKeyboardMarkup(
@@ -724,6 +749,8 @@ Example:
 [button 3](buttonurl://example.com)
 ```
 This will show button 1 and 2 on the same line, with 3 underneath.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 BUTTON_20 = InlineKeyboardMarkup(
@@ -756,6 +783,8 @@ You can use these to mention a user in notes too!
 - `{id}`: The user's ID.
 - `{chatname}`: The chat's name.
 - `{rules}`: Adds Rules Button to Message.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 @app.on_callback_query(filters.regex("for_mmands"))
@@ -787,6 +816,8 @@ hello there `{first}`!
 Ooooh, `{first}` how are you?
 %%%
 Sup? `{first}`
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 @app.on_callback_query(filters.regex("for_mands"))
@@ -841,6 +872,8 @@ TEXT_PART_1 = """
 The first thing to do is to add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 TEXT_PART_2 = """
@@ -851,9 +884,11 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @szrosebot as Admin
+▫️ Add @alkuppiyaprotectorbot as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 TEXT_PART_3 = """
@@ -862,6 +897,8 @@ All commands can be used with /
 If you're facing any difficulties in setting up me in your group, 
 so don't hesitate to come in ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶.
 We would love to help you.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 
@@ -920,6 +957,8 @@ text = """
 - **Fast**: Pyrogram base bot and use mongo as database.
 
 **Current Version:** `1.0.6` | [Special Credits](https://telegra.ph/Special-Credits-02-02)
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 @app.on_callback_query(filters.regex("_about"))
 async def commands_callbacc(_, CallbackQuery):
@@ -954,10 +993,12 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 TEXT_PAT_1 = """
-**Welcome to the Rose Configuration**
+**Welcome to the ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 Configuration**
 The first thing to do is to add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 TEXT_ART_2 = """
@@ -968,9 +1009,11 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @szrosebot as Admin
+▫️ Add @alkuppiyaprotectorbot as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 TEXT_PART_3 = """
@@ -979,6 +1022,8 @@ All commands can be used with /
 If you're facing any difficulties in setting up me in your group, 
 so don't hesitate to come in @apealkuppiya.
 We would love to help you.
+
+<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya)
 """
 
 
