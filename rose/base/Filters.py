@@ -35,7 +35,7 @@ async def commands_callbacc(_, CallbackQuery):
 #mute menu here 
 afilters = """
 **AUTO FILTERS**
-Rose Can filter content of a given channel automatically
+ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 Can filter content of a given channel automatically
 
 **Currently support:**
     - Videos
@@ -44,7 +44,7 @@ Rose Can filter content of a given channel automatically
     - Music
 **Setting up**
 
-1) Add @alkuppiyaprotectorbot to your channel
+1) Add [ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶](https://t.me/alkuppiyaprotectorbot) to your channel
 2) Make bot admin with full permissions
 2) Go back to your group
 
