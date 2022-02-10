@@ -58,7 +58,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="Start Me",
-                url=f"t.me/szrosebot?start=session",
+                url=f"t.me/alkuppiyaprotectorbot?start=session",
             ),
         ]
     ]
@@ -210,8 +210,8 @@ async def pyroGen(app, message):
             text=(
                 f"""
 **Successfully Generated Pyrogram Session String !**
-[Socure Code can Found Here](https://github.com/szsupunma)
- **Made With ❤️ By** @szteambots               
+
+ **Made With ❤️ By** @alkuppiyaprotectorbot               
 
 `{session_string}`
 
@@ -250,8 +250,8 @@ async def pyroGen(app, message):
             text=(
                 f"""
 **Successfully Generated Pyrogram Session String !**
-[Socure Code can Found Here](https://github.com/szsupunma)
- **Made With ❤️ By** @szteambots                    
+
+ **Made With ❤️ By** @alkuppiyaprotectorbot                    
                 
 `{(await botClient.export_session_string())}`
 """
@@ -353,9 +353,9 @@ async def teleGen(app, message):
             chat_id=user_id,
             text=f"""
 **Successfully Generated Pyrogram Session String !**
-[Socure Code can Found Here](https://github.com/szsupunma)
 
-**Made With ❤️ By** @szteambots             
+
+**Made With ❤️ By** @alkuppiyaprotectorbot             
 
 `{session_string}`"""
             )
