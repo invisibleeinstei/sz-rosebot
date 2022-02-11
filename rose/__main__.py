@@ -136,7 +136,7 @@ start_button = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="ᴄᴏᴍᴍᴀɴᴅꜱ ᴍᴇɴᴜ🤭", callback_data="bot_commands"
+                text="ᴄᴏᴍᴍᴀɴᴅꜱ ᴍᴇɴᴜ🔖", callback_data="bot_commands"
             ),
         ],
         [
@@ -325,18 +325,18 @@ keyboar = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="ʙᴀꜱɪᴄ ᴍᴇɴᴜ👻🤭", callback_data="basic_menu"
+                            text="ʙᴀꜱɪᴄ ᴍᴇɴᴜ 🎾", callback_data="basic_menu"
                         ),
                         InlineKeyboardButton(
-                            text="ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ👻🤭", callback_data="adv_menu"
+                            text="ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ 🔥", callback_data="adv_menu"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴇxᴘᴇʀᴛ👻🤭", callback_data="ftools_back"
+                            text="ᴇxᴘᴇʀᴛ 🖱", callback_data="ftools_back"
                         ),
                         InlineKeyboardButton(
-                            text="ɪɴʟɪɴᴇ👻🤭", callback_data="_inline"
+                            text="ɪɴʟɪɴᴇ 🔍", callback_data="_inline"
                         ),
                     ],
                     [
@@ -344,7 +344,7 @@ keyboar = InlineKeyboardMarkup(
                             text="ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ👻🤭", callback_data="_how"
                         ),
                         InlineKeyboardButton(
-                            text="ᴀʙᴏᴜᴛ ᴍᴇ👻🤭", callback_data="_about"
+                            text="ᴀʙᴏᴜᴛ ᴍᴇ🤭👻", callback_data="_about"
                         ),
                     ],
                     [
