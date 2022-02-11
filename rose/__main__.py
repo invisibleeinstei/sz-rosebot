@@ -157,22 +157,12 @@ start_button = InlineKeyboardMarkup(
 )
 
 start_text = f"""
-<b>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ! ɪ'ᴍ AL KUPPꞮYA PƦOTECTOƦ 🪶 .ᴀɴ  ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ & ꜱᴜɪᴛ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.🤭♥️👻</b>
+<b>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ! ɪ'ᴍ AL KUPPꞮYA PƦOTECTOƦ 🪶 .ᴀɴ  ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ & ꜱᴜɪᴛ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.🤭♥️👻</b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ <a href="https://t.me/apealkuppiya">ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣</a> <b>ʙᴏᴛ ᴘʀᴏɢʀᴀᴍ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ,</b>👇🏼
+    
+    <a href="https://telegra.ph/%E1%97%A9%E3%81%97-%E1%8F%A6%E1%91%8C%E1%91%AD%E1%91%AD%E1%8F%86%E1%8E%A9%E1%97%A9%E1%B5%80%E1%B4%B9-02-10">ᴄʀᴇᴅɪᴛ ꜱʜᴇᴇᴛ🖱🔥</a>
 
-<b>ᴘʀᴏᴊᴇᴄᴛ ʙʏ</b> [ᗩ/し ᏦᑌᑭᑭᏆᎩᗩᵀᴹ 🐣](https://t.me/apealkuppiya) <b>ʙᴏᴛ ᴘʀᴏɢʀᴀᴍ ᴄʀᴇᴅɪᴛ ɢᴏᴇꜱ ᴛᴏ,</b>👇🏼
-
-▫️[ᴡɪʟʟɪᴀᴍʙᴜᴛᴄʜᴇʀʙᴏᴛ](https://github.com/thehamkercat/WilliamButcherBot)
-▫️[ᴀʟɪᴛᴀ ʀᴏʙᴏᴛ](https://github.com/Divkix/Alita_Robot/)
-▫️[ʏᴜᴋᴋɪᴍᴜꜱɪᴄʙᴏᴛ](https://github.com/NotReallyShikhar/YukkiMusicBot)
-▫️[ꜱɪɴɢʟᴇ-ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ](https://github.com/Single-Developers/API)
-▫️[ɴᴇxᴀ ᴜꜱᴇʀʙᴏᴛ](https://github.com/Itz-fork/Nexa-Userbot)
-▫️[ɢʜᴏꜱᴛɪꜱᴛ ʟᴏɢᴏ ᴍᴀᴋᴇʀ ᴀᴘɪ](https://telegra.ph/Ghostist-Logo-Maker-API-01-30)
-▫️[ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
-▫️[ᴀʀQᴜᴘᴅᴀᴛᴇꜱ](https://t.me/ARQupdates)
-▫️[ʀᴏꜱᴇ ʙᴏᴛ](https://t.me/szrosebot)
-
-[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡](https://t.me/apealkuppiya)
-[ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ 🐣](https://t.me/alevelkuppiya1)
+<a href="https://t.me/apealkuppiya">ᴀʟ ᴋᴜᴘᴘɪʏᴀ ɢʀᴏᴜᴘ 💡</a>
+<a href="https://t.me/alevelkuppiya1">ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴄʜᴀɴɴᴇʟ 🐣</a>
 """
 
 keyboard = InlineKeyboardMarkup(
@@ -1030,7 +1020,7 @@ We would love to help you.
 
 BUTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to Chat ! 🎉', url='http://t.me/alkuppiyaprotectorbot?startgroup=new')
+        InlineKeyboardButton('Add ᴀʟ ᴋᴜᴘᴘɪʏᴀ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🪶 to Chat ! ', url='http://t.me/alkuppiyaprotectorbot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_100")
         ]]
