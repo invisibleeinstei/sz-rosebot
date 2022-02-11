@@ -122,10 +122,10 @@ class Greetings(MongoDB):
                 "cleangoodbye_id": None,
                 "cleangoodbye": False,
                 "cleanservice": False,
-                "goodbye_text": "**Nice knowing you!** {first}.\n**Take care**",
-                "welcome_text": "Hey there {first},, and welcome to {chatname}! How are you?",
-                "welcome": True,
-                "goodbye": True,
+                "goodbye_text": 
+                "welcome_text": 
+                "welcome": False,
+                "goodbye": False,
             }
             self.insert_one(new_data)
             LOGGER.info(f"⚒ Initialized Greetings Document for chat {self.chat_id}")
