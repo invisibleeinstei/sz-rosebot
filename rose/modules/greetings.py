@@ -310,7 +310,7 @@ async def resetwlcm(_, m: Message):
     db = Greetings(m.chat.id)
     if m and not m.from_user:
         return
-    text = "Hey {first}, welcome to {chatname}!"
+    text = 
     db.set_welcome_text(text)
     await m.reply_text("Done!")
     return
